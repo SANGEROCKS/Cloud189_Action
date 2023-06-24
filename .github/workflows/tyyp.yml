@@ -1,4 +1,4 @@
-name: 天翼云盘签到
+name: eCloud Checkin
 on:
   push:
     branches: [ master ]
