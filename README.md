@@ -1,4 +1,4 @@
-# 天翼云盘签到
+# Ecloud Remark
 
 根据[kxs2018/daily_sign](https://github.com/kxs2018/daily_sign)删改而来。
 
